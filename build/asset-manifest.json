@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6d3b9833.css",
-    "main.js": "/portfolio/static/js/main.0c5fb88b.js",
-    "static/js/787.43d88a3b.chunk.js": "/portfolio/static/js/787.43d88a3b.chunk.js",
-    "static/media/resume.pdf": "/portfolio/static/media/resume.600b2c489e226485243a.pdf",
-    "static/media/coding.png": "/portfolio/static/media/coding.49f7ae71c930c3627625.png",
-    "static/media/work-logo.png": "/portfolio/static/media/work-logo.89f6a5b581c7ea021314.png",
-    "static/media/project2.png": "/portfolio/static/media/project2.e5498ae3faf7641482fe.png",
-    "static/media/project1.png": "/portfolio/static/media/project1.bf26f17ffd9c4ee54dfb.png",
-    "static/media/instagram.png": "/portfolio/static/media/instagram.a7ae17746ef2251ba058.png",
-    "static/media/github.png": "/portfolio/static/media/github.6c75ee05afe7a8976267.png",
-    "static/media/twitter.png": "/portfolio/static/media/twitter.e790a56dddc2713af42b.png",
-    "index.html": "/portfolio/index.html",
-    "main.6d3b9833.css.map": "/portfolio/static/css/main.6d3b9833.css.map",
-    "main.0c5fb88b.js.map": "/portfolio/static/js/main.0c5fb88b.js.map",
-    "787.43d88a3b.chunk.js.map": "/portfolio/static/js/787.43d88a3b.chunk.js.map"
+    "main.css": "/static/css/main.6d3b9833.css",
+    "main.js": "/static/js/main.c15c28ae.js",
+    "static/js/787.43d88a3b.chunk.js": "/static/js/787.43d88a3b.chunk.js",
+    "static/media/resume.pdf": "/static/media/resume.600b2c489e226485243a.pdf",
+    "static/media/coding.png": "/static/media/coding.49f7ae71c930c3627625.png",
+    "static/media/work-logo.png": "/static/media/work-logo.89f6a5b581c7ea021314.png",
+    "static/media/project2.png": "/static/media/project2.e5498ae3faf7641482fe.png",
+    "static/media/project1.png": "/static/media/project1.bf26f17ffd9c4ee54dfb.png",
+    "static/media/instagram.png": "/static/media/instagram.a7ae17746ef2251ba058.png",
+    "static/media/github.png": "/static/media/github.6c75ee05afe7a8976267.png",
+    "static/media/twitter.png": "/static/media/twitter.e790a56dddc2713af42b.png",
+    "index.html": "/index.html",
+    "main.6d3b9833.css.map": "/static/css/main.6d3b9833.css.map",
+    "main.c15c28ae.js.map": "/static/js/main.c15c28ae.js.map",
+    "787.43d88a3b.chunk.js.map": "/static/js/787.43d88a3b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d3b9833.css",
-    "static/js/main.0c5fb88b.js"
+    "static/js/main.c15c28ae.js"
   ]
 }
