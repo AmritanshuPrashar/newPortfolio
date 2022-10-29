@@ -44,4 +44,31 @@ export const SkillsData = [
             }
         ]
     }
+    ,
+    {
+        type: "Cloud Technologies",
+        list: [
+            {
+                name: "Amazon AWS",
+                icon: 
+                <i class="devicon-amazonwebservices-plain-wordmark colored"></i>
+              
+            }, {
+                name: "Microsoft Azure",
+                icon:
+                    
+            <i class="devicon-azure-plain-wordmark colored"></i>
+          
+
+            },
+            {
+                name: "Google Firebase",
+                icon:
+                    
+            <i class="devicon-firebase-plain-wordmark colored"></i>
+          
+
+            }
+        ]
+    }
 ]
