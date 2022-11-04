@@ -6,7 +6,7 @@ function ProjectCard({ project }) {
             <div className='project-info'>
                 <label className='project-title'>{project.title}</label>
                 <div className='project-links'>
-                    {project.demo && (<a className='project-link' href={project.demo}>
+                    {project.demo && (<a className='project-link' href={project.demo} target="_blank">
                         <div className='link-button'>
                             <i class="fi fi-rr-globe"></i>Demo
                         </div>
