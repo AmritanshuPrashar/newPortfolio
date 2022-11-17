@@ -22,13 +22,24 @@ export const ProjectData = [
 
     },
     {
-        id: 2,
+        id: 3,
         title: "Realtime Chat Web App",
         about: "GoChat Messenger is the most convenient way to send quick messages from your cell phone to any contact or friend using Go chat.",
         tags: ["ReactJS", "Firebase"],
         demo: "https://chatapp.amriwtf.me/",
         github: "https://github.com/AmritanshuPrashar/realtime_chat_app",
         image : require("../../assets/project3.png"), 
+
+
+    },
+    {
+        id: 4,
+        title: "Music Web App",
+        about: "In Go Music user can stream new songs and listen to them whenever and wherever they want. The user can add songs to their playlist and the streaming songs can be downloaded to their local machine, also we have the search option so that user can browse his own song, album, artist or composer the individual wants to listen to.",
+        tags: ["ReactJS", "Axios" ,"ShazamCoreApi", "Vite"],
+        demo: "https://musicapp.amriwtf.me/",
+        github: "https://github.com/AmritanshuPrashar/musicWebApp",
+        image : require("../../assets/project4.png"), 
 
 
     }
